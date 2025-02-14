@@ -1,0 +1,4 @@
+# SVM-implementation
+a support vector machine implementation using different optimization approaches without the use of prebuilt models for classification of the MNIST dataset
+
+This project was developed by me and a collegue during the course of optimization methods for machine learning, all the details and results of the implementation are reported into the report file.
