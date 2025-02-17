@@ -2,4 +2,4 @@
 a support vector machine implementation using different optimization approaches without the use of prebuilt models for classification of the MNIST dataset
 
 This project was developed by me and a collegue during the course of optimization methods for machine learning, all the details and results of the implementation are reported into the report file.
-The most intresting results are the ones obtained in Q4.
+The most intresting results are the ones obtained in Q4 thorugh a smart implementation of a caching mechanism.
