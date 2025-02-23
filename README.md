@@ -1,6 +1,6 @@
 # Univerity-projects
 
-here some relevant project that I developed during my master course, you will find for each the report containing all the relevant information and performances, i recommand to see 1 and 3.
+here some relevant project that I developed during my master course, you will find for each the report containing all the relevant information and performances.
 
 1. implementation of a Deep Q learning algorithm for production and inventory control (course of Network resource management- Reinforcement learning module)
 
